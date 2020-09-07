@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:root@cluster0.acxii.mongodb.net/instagram-db?retryWrites=true&w=majority
