@@ -5,3 +5,7 @@ spring:
   data:
     mongodb:
       uri: mongodb+srv://root:root@cluster0.acxii.mongodb.net/instagram-db?retryWrites=true&w=majority
+
+app:
+  jwtSecret: dsfjhsfhjhgjdjasfjdshfjsdhjf
+  jwtExpirationMs: 86400000

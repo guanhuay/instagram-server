@@ -1,0 +1,15 @@
+
+C
+java:S1452C"&Remove usage of generic wildcard type.(Âü¹Ä8Åù…ÔÆ.
+H
+java:S14524"&Remove usage of generic wildcard type.(úùÒ„úÿÿÿÿ8ÆõÓÆ.
+G
+java:S5411Q"*Use the primitive boolean expression here.(êº°˜8Åù…ÔÆ.
+I
+java:S1612J",Replace this lambda with a method reference.(ëœ–8Åù…ÔÆ.
+G
+java:S5411W"*Use the primitive boolean expression here.(Œ‰ÓŒ8Åù…ÔÆ.
+C
+java:S1452P"&Remove usage of generic wildcard type.(º®äÁ8Åù…ÔÆ.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8á°‹ÔÆ.

@@ -1,0 +1,11 @@
+
+i
+java:S1128"LRemove this unused import 'com.instagram.security.services.UserDetailsImpl'.(õ¶çÁ8üÓÖÒÆ.
+f
+java:S1128"IRemove this unused import 'sun.plugin.liveconnect.SecurityContextHelper'.(Üı££8üÓÖÒÆ.
+Y
+java:S2387"7"logger" is the name of a field in "GenericFilterBean".(É§‚’ÿÿÿÿÿ8ªæ«ÒÆ.
+2
+java:S2275-"Not enough arguments.(â©Éˆ8àóÖÒÆ.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Üı££8üÓÖÒÆ.
